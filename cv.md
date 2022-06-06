@@ -34,6 +34,6 @@ __* Education:__
 
 __* Languages:__
 
-    + English - A2; 
+    + English - beginner; 
     + Russian - native; 
     + Belorussin - intermidiate.
